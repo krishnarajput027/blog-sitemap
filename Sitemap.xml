@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://emicalculator5.blogspot.com/</loc>
-    <lastmod>2025-02-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <!-- Add more <url> entries for other pages or posts -->
+    <url>
+        <loc>https://emicalculator5.blogspot.com/</loc>
+        <lastmod>2025-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://emicalculator5.blogspot.com/another-page</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://emicalculator5.blogspot.com/some-other-page</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <!-- Aap apne aur bhi pages ka URL yahan add kar sakte hain -->
 </urlset>
